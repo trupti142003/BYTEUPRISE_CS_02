@@ -1,0 +1,23 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+
+# Temporary files
+*.log
+*.manifest
+pip-log.txt
+*.spec
+
+# Compiled extensions
+*.so
+
+# Miscellaneous
+.ipynb_checkpoints/
+.env
